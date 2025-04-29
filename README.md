@@ -64,14 +64,14 @@ This project investigates productivity patterns in a garment manufacturing facto
 
 ---
 
-## 📂 Repository Structure
-
----
-
 ## 👥 Contributors
 
 - Samudika
 - [@Meedum](https://www.linkedin.com/in/meedum-keerthisiri-5a75a7212/)
 - [@Pasindu](https://www.linkedin.com/in/pasindu-madusanka-544517261/)
+
+---
+
+## 📂 Repository Structure
 
 ---
